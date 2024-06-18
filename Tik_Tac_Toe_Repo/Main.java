@@ -1,7 +1,8 @@
+package Tik_Tac_Toe_Repo;
 import java.util.Scanner;
 
 public class Main {
-  public static void main(String[] args) {
+  public static void main(String[] args) {  
     // Creating Board
     char[][] board = new char[3][3];
     for (int row = 0; row < board.length; row++) {
@@ -21,7 +22,7 @@ public class Main {
       
       if(board[row][col]==' '){
         board[row][col]= player;
-        // haveOne function will check all the winning possibilties for current player
+        // haveOne function will check all the winning possibilities for current player
         gameOver = haveWon(board,player);
         if(gameOver){
           System.out.println("Player "+player+" has Won!!");
