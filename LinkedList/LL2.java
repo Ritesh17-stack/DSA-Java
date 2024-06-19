@@ -1,6 +1,6 @@
 package LinkedList;
 // LinkedList using Collection Frameworks
-import java.util.*;
+import java.util.LinkedList;
 public class LL2 {
     public static void main(String[] args) {
         LinkedList<String> list1 = new LinkedList<>();
