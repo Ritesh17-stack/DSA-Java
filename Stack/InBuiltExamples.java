@@ -7,6 +7,7 @@ public class InBuiltExamples{
        stack.push(6);
        stack.push(7);
        stack.push(8);
+       stack.pop();
        System.out.println(stack);
     }
 }

@@ -52,7 +52,7 @@ public class LL1 {
     private Node insertRec(String data, int idx,Node node){
         if (idx==0) {
             Node newNode = new Node(data,node.next); 
-            size--;
+            size++;
             return newNode;
         }
         node.next=insertRec(data, --idx, node.next);

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4461b421-fdc1-4d72-904f-f31382a88090" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/LL1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LL1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/CollectionFrameworks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/CollectionFrameworks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/InBuiltExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/InBuiltExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Java/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Java/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/LinkedList/LL1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Java/LinkedList/LL1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/Queue/CollectionFrameworks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Java/Queue/CollectionFrameworks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Java/Stack/InBuiltExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Java/Stack/InBuiltExamples.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="31ui73shF5EfuWzbnc9Kn1uZaGs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Hillcipher">
+    <configuration name="Ceaser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cryptography.Ceaser" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cryptography.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CeaserGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cryptography.CeaserGUI" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cryptography.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hillcipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cryptography.Hillcipher" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cryptography.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Playfair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cryptography.Playfair" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cryptography.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rot13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cryptography.Rot13" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cryptography.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hillcipher" />
+        <item itemvalue="Application.Playfair" />
+        <item itemvalue="Application.Rot13" />
+        <item itemvalue="Application.CeaserGUI" />
+        <item itemvalue="Application.Ceaser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4461b421-fdc1-4d72-904f-f31382a88090" name="Changes" comment="" />
+      <created>1756380191863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756380191863</updated>
+    </task>
+    <servers />
+  </component>
+</project>

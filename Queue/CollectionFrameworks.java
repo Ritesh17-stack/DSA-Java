@@ -22,6 +22,5 @@ public class CollectionFrameworks {
         deque.addLast(10);
         deque.remove();
         System.out.println(deque);
-    
     }
 }

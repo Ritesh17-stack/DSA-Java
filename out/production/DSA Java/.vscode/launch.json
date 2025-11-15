@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bfs",
+            "request": "launch",
+            "mainClass": "Graphs.bfs",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
+            "name": "basics1",
+            "request": "launch",
+            "mainClass": "Graphs.basics1",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
+            "name": "Prac6",
+            "request": "launch",
+            "mainClass": "LinkedList.Prac6",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
+            "name": "Prac5",
+            "request": "launch",
+            "mainClass": "LinkedList.Prac5",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
+            "name": "Prac4",
+            "request": "launch",
+            "mainClass": "LinkedList.Prac4",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Pattern_Printing.Pattern.Practice",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Tik_Tac_Toe_Repo.Main",
+            "projectName": "DSA Java_97557727"
+        },
+        {
+            "type": "java",
             "name": "TwoStacks",
             "request": "launch",
             "mainClass": "Stack.TwoStacks",

@@ -36,7 +36,7 @@ class LinkedList {
         while (index > 0&& temp.next!=null) {
             temp = temp.next;
             index--;
-        }
+        }   
         return temp.val;
     }
     public void insertHead(int val) {
